@@ -24,19 +24,20 @@ I managed to find publicly available information for all wall heights, and I man
 
 I determined that the grass stripes are each 10ft in the real stadium, and I decided to print each individual stripe as it's own piece. Because printing quality isn't too good, I had to do quite a bit of sanding on the pieces to make them fit. Even so, the outfield has 2 stripes less than it's supposed to because there is no room for those extra 2. 
 # Connectors
-The bottom structures needed to connect to each other and to the walls somehow, so I decided to make connectors. I made .5 x .5 cm holes, with depth of 5cm for the walls, and 1cm between the strucutres. Because of printing quality, I also had to sand them down a little bit to make sure they all fit well.
+The bottom structures needed to connect to each other and to the walls somehow, so I decided to make connectors. I made .5 x .5 cm holes, with depth of 5cm for the walls, and 1cm between the strucutres. Because of printing quality, I also had to sand them down a little bit to make sure they all fit well. For the STL files, a small connector is the one that connects the dugout to the bottom structure. A large connector is the one that connects the bottom structures to each other, and the wall connectors connect regular walls to the bottom strucutre
 # Stickers
 <img width="1284" height="585" alt="TBJ82" src="https://github.com/user-attachments/assets/9bbbb982-5db1-40fe-9c9a-fbb2033fbfc2" />
 
 Since the real stadium has logos on their walls, I decided to make them as well. While I was not able to fit all of them as they showed up on the walls, I got the ones that I believed were the most important, such as TD, Rogers, Home Hardware, as well as Heinz, Score bet, and The Keg
 # Understanding the STL Files
 Most of the STL files are pretty self-explanatory, but for the ones that are abbreviated, here's what they are:
+
 DG - Anything with DG followed by a number was a dark grass stripe
+
 LG - Likewise, this means that this is a light grass stripe
+
 OutW - This is an outfield wall that had no specific meaning, although I did combine a few afterwards
+
 WT - The 4 parts of the Warning Track
-Small Connector - The connectors that connect the dugout to the bottom structure
-Large Connector - The connectors that connect the bottom structures to each other
-Wall Connector - The connectors that connect regular walls to the bottom strucutre
 # Final Comments
 Even though there are things to be improved upon, this all looks very good, and I'm very proud of how it turned out, despite the many things that went wrong. I hope you can enjoy the aethetics of it as well.
