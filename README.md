@@ -5,6 +5,8 @@
 
 I created a 3d model of the Toronto Blue Jays Stadium, also known as Roger's Centre. I used Fusion for 3d modelling, Dremel Digilab for creating the prints, and Illustrator for creating the stickers
 
+Here is the Youtube demo video: https://youtu.be/m4vb42oSjX0
+
 # Features
 This project has absolutely no features, just meant to look good and realistic
 # Field Construction and Dimensions
